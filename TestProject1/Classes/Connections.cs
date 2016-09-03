@@ -8,6 +8,10 @@ namespace TestProject1.Classes
 {
     class Connections
     {
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4a48f067afb28856754af5ec61e57a5f21e900e1
         private List<int> tipid = null;
         private List<string> users = null;
         private List<string> links = null;
@@ -24,6 +28,10 @@ namespace TestProject1.Classes
             tipid = new List<int>();
             users = new List<string>();
             links = new List<string>();
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4a48f067afb28856754af5ec61e57a5f21e900e1
             Connect(usr);
         }
 
